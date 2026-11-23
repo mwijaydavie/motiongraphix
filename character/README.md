@@ -1,6 +1,6 @@
-# Character kit — working name Nia
+# Noellyne — character kit
 
-Original AI-generated character concept for a Kiswahili-first, Bongo-flavoured comedy and storytelling channel. Name, final channel identity and voice are not yet approved.
+Original AI-generated character concept for a Kiswahili-first, Bongo-flavoured comedy and storytelling channel. Name approved as Noellyne. Final channel identity and voice remain open. This is a distinct character from the existing Noellyne host in the other repository; do not interchange their assets.
 
 ## Identity
 Adult Tanzanian-inspired Afro woman; warm, playful, clever and self-aware. A distinctive coily high puff with coral clip, plum jacket, teal edging and coral shirt; expressive eyebrow and knowing side-eye. Comedy is observational and kind, with a twist and sometimes a useful insight. Avoid copying jokes verbatim or punching down.
@@ -10,7 +10,8 @@ Adult Tanzanian-inspired Afro woman; warm, playful, clever and self-aware. A dis
 - `poses/`: four independently generated still pose explorations (side-eye, storytelling, thinking, laughing).
 - `profile.png`: square profile art. `exports/profile-800.png`: 800 × 800 upload version.
 - `banner-art.png`: clean, text-free landscape artwork. `exports/youtube-banner.jpg`: 2560 × 1440 version. `exports/social-banner.jpg`: 1500 × 500 letterboxed version.
-- `contact-sheet.jpg`: visual review of all artwork.
+- `contact-sheet.jpg`: visual review of the initial artwork.
+- `presenter-contact-sheet.jpg`: presenter gesture review. `poses/presenter-{open,wave,point,peace,like,ok,thanks,surprised}.png` are flattened visual pose references.
 - `reference/inspiration.png`: user-supplied inspiration; rights unknown, reference only, do not republish as our character.
 
 ## Production notes
